@@ -1,0 +1,6 @@
+@api_safe_trade_HostAddress = http://localhost:5299
+
+GET {{api_safe_trade_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
