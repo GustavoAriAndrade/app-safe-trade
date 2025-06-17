@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("api-safe-trade")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e6285258b0e3fd26f22918c92ed79ff68bfd28b1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+54d6707b8d0bd64ecdf988c8bc11dafc7ec8ce13")]
 [assembly: System.Reflection.AssemblyProductAttribute("api-safe-trade")]
 [assembly: System.Reflection.AssemblyTitleAttribute("api-safe-trade")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
