@@ -4,6 +4,9 @@ namespace api_safe_trade.Application.Interfaces
 {
     public interface IUserService
     {
-        Task CreateUserAsync(Usuario input);
+        Task CreateAsync(Usuario input);
+        Task<List<Usuario>> GetListAsync();
+        Task<Usuario> GetByIdAsync(int id);
+        Task UpdateAsync(Usuario input);
     }
 }
